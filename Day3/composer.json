@@ -1,0 +1,9 @@
+{ 
+
+    "description":"day3",
+    "license":"MIT",
+    "autoload":{
+        "classmap":["classes"],
+        "files":["config.php","function.php"]
+    }
+}
