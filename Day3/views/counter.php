@@ -1,6 +1,6 @@
 <?php
 $counter=new Counter();
-$counter->increment_and_update();
-$count=$counter->get_count();
+$counter->incrementAndUpdate();
+$count=$counter->getCount();
 echo "<h1> Count=$count </h1>" 
 ?>
